@@ -1,2 +1,3 @@
-# pdf-automation
-Automate PDF creation using Python and FPDF.
+# PDF Automation
+
+The goal is to automate PDF creation using Python and FPDF.
